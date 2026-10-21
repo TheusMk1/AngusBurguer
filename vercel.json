@@ -1,0 +1,10 @@
+{
+  "framework": null,
+  "buildCommand": null,
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "redirects": [
+    { "source": "/", "destination": "/cardapio/", "permanent": true }
+  ]
+}
